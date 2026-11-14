@@ -1,3 +1,5 @@
+## this project was made by GLM 5.3 FLASH, you may use it, study it or fork it as long as it retains the MIT license
+
 # RandWords (C#)
 
 Random words that connect like sentences, for AI training data. C# twin of the Python `randwords` package - same seed, same output, verified by cross-language parity tests.
