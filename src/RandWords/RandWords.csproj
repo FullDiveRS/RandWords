@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>RandWords</RootNamespace>
+    <AssemblyName>RandWords</AssemblyName>
+    <Version>1.1.0</Version>
+    <PackageId>RandWords</PackageId>
+    <Title>RandWords</Title>
+    <Description>Random words that connect like sentences - seeded, cross-language-identical training-text generator (hybrid grammar / Markov / invented-word modes). Twin of the Python randwords package.</Description>
+    <PackageTags>random;words;sentences;training-data;markov;synthetic-data;nlp</PackageTags>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>10</LangVersion>
+  </PropertyGroup>
+
+</Project>
